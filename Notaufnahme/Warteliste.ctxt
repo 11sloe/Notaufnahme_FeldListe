@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Warteliste
+comment1.params=
+comment1.target=Warteliste()
+comment2.params=pat
+comment2.target=void\ einfuegen(Patient)
+comment3.params=
+comment3.target=Patient\ aufrufen()
+comment4.params=
+comment4.target=boolean\ istVoll()
+comment5.params=
+comment5.target=boolean\ istLeer()
+comment6.params=
+comment6.target=void\ ausgeben()
+numComments=7
